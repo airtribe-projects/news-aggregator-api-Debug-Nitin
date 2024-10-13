@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "Clark Kent",
+      "email": "clark@superman.com",
+      "password": "Krypt()n8",
+      "preferences": [
+        "movies",
+        "comics"
+      ]
+    },
+    {
+      "name": "Bruce Wayne",
+      "email": "bruce@superman.com",
+      "password": "Brypt()n8",
+      "preferences": [
+        "movies",
+        "comics"
+      ]
+    },
+    {
+      "name": "Clark Kent",
+      "email": "zebra@superman.com",
+      "password": "$2b$10$t3Cs86NLdo67jghtqFM4R.bhRfoYSgwh.Iu4Ym3OxvDb17wg6uoqi",
+      "preferences": [
+        "anime"
+      ]
+    }
+  ]
+}
